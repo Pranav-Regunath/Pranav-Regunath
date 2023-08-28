@@ -5,6 +5,8 @@ Pronouns: He/him
 
 Programming Languages that I am currently learning: Python, Java, C++
 
+Personal Hobbies: Drawing and Painting
+
 📫 How to reach me:
   Outlook: pregu203@iastate.edu
   
