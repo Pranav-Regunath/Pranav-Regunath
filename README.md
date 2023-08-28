@@ -6,7 +6,8 @@ Pronouns: He/him
 Programming Languages that I am currently learning: Python, Java, C++
 
 📫 How to reach me:
-  outlook: pregu203@iastate.edu
-  phone: (331) 452-3848
+  Outlook: pregu203@iastate.edu
+  
+  Phone: (331) 452-3848
 
 
